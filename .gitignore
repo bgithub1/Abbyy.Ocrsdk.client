@@ -1,0 +1,8 @@
+/bin/
+.classpath
+/multidoccsv
+/multidocdestination
+/multidocsource
+*.tif
+*.txt
+
